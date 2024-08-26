@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us
+title: About
 permalink: /about/
 ---
 
-Creators of Alien World
+Creator of Student 2025
